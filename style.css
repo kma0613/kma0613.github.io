@@ -105,13 +105,13 @@ div#footer {
 }
 
   div#footer ul {
-    float: right;
     list-style-type: none;
   }
   div#footer ul li {
     display: inline;
   }
   div#footer a{
+    float: center;
     color: #fff;
     font-size: 14px;
     text-decoration: none;
@@ -121,6 +121,7 @@ div#footer {
     color: #d92129;
     }
   div#footer p {
+    float: right;
     color: #fff;
     font-size: 14px;
     font-weight: 400;
