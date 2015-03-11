@@ -16,7 +16,7 @@ div#header {
   min-height: 600px;
 }
   header h1 {
-    padding-top: 30px;
+    margin-top: 30px;
     margin-left: 170px;
     display: inline;
   }
@@ -27,15 +27,16 @@ div#header {
     float: right;
     list-style-type: none;
     margin-top: 40px;
-    margin-left: 110px;
   }
     header nav ul li {
       display: inline;
-
+      padding:0px 110px;
     }
   header nav ul li a {
-        color:#fff;
+        color: #fff;
+        font-size: 24px;
         text-decoration: none;
+        font-weight: 600;
     }
   header nav ul li a:hover {
     color: #d92129;
