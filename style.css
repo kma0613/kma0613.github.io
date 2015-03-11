@@ -43,7 +43,6 @@ div#header {
 /* MARKETING */
 div#marketing {
     text-align: center;
-    float: center;
 }
   div#marketing h1 {
     font-weight: 700;
@@ -56,6 +55,48 @@ div#marketing {
     font-size: 30px;
   }
 
+/* FEATURES */
+div#features {
+  text-align: center;
+}
+  div#features h2 {
+   font-weight: 600;
+   color:#333333;
+   font-size: 20px; 
+  }
+  div#features p {
+   font-weight: 400;
+   color:#333333;
+   font-size: 16px; 
+  }
 
+/* WHY_JOTTLY */
+div#why_jottly h2 {
+  text-align: center;
+  font-weight: 600;
+  color:#333333;
+  font-size: 30px; 
+}
+div#why_jottly p {
+  font-weight: 400;
+  color:#333333;
+  font-size: 20px; 
+}
 
+/* JOIN_US */
+div#join_us {
+  text-align: center;
+}
+  div#join_us h2 {
+    text-align: center;
+    font-weight: 600;
+    color:#333333;
+    font-size: 36px; 
+  }
+  div#join_us h3 {
+    text-align: center;
+    font-weight: 400;
+    color:#333333;
+    font-size: 24px; 
+  }
 
