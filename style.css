@@ -43,6 +43,7 @@ div#header {
 /* MARKETING */
 div#marketing {
     text-align: center;
+    float: center;
 }
   div#marketing h1 {
     font-weight: 700;
@@ -54,5 +55,7 @@ div#marketing {
     color:#fff;
     font-size: 30px;
   }
+
+
 
 
