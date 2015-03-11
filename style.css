@@ -34,7 +34,6 @@ div#header {
         font-size: 24px;
         text-decoration: none;
         font-weight: 600;
-        padding: ;
     }
   header nav ul li a:hover {
     color: #d92129;
@@ -100,3 +99,29 @@ div#join_us {
     font-size: 24px; 
   }
 
+/* FOOTER */
+div#footer {
+  background-color: #333333;
+}
+
+  div#footer ul {
+    float: right;
+    list-style-type: none;
+  }
+  div#footer ul li {
+    display: inline;
+  }
+  div#footer a{
+    color: #fff;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: 400;
+  }
+  div# footer a:hover {
+    color: #d92129;
+    }
+  div#footer p {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 400;
+  }
