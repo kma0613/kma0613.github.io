@@ -169,7 +169,7 @@ input[type="submit"],
 input[type="reset"],
 input[type="button"] {
   display: inline-block;
-  height: 38px;
+/*  height: 38px;*/
   padding: 0 30px;
   color: #555;
   text-align: center;
@@ -231,7 +231,7 @@ input[type="url"],
 input[type="password"],
 textarea,
 select {
-  height: 38px;
+  /*height: 38px;*/
   padding: 6px 10px; /* The 6px vertically centers text on FF, ignored by Webkit */
   background-color: #fff;
   border: 1px solid #D1D1D1;
@@ -251,7 +251,7 @@ textarea {
      -moz-appearance: none;
           appearance: none; }
 textarea {
-  min-height: 65px;
+  /*min-height: 65px;*/
   padding-top: 6px;
   padding-bottom: 6px; }
 input[type="email"]:focus,
@@ -408,6 +408,7 @@ there.
 /* Larger than tablet */
 @media (min-width: 750px) {}
 
+@media (min-width: 850px) {}
 /* Larger than desktop */
 @media (min-width: 1000px) {}
 
