@@ -188,6 +188,7 @@ body {
     font-size: 30px;
   }
   .marketing a {
+    font-size: 25px;
     padding-left: 40px;
     padding-right: 40px;
   }
@@ -273,7 +274,6 @@ body {
     margin-bottom: 60px;
   }
   .marketing a {
-    font-size: 25px;
     padding: 15px 35px 14px;
   }
 
